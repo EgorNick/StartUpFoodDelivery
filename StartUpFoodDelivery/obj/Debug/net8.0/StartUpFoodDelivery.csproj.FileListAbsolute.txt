@@ -1,0 +1,15 @@
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\bin\Debug\net8.0\StartUpFoodDelivery.exe
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\bin\Debug\net8.0\StartUpFoodDelivery.deps.json
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\bin\Debug\net8.0\StartUpFoodDelivery.runtimeconfig.json
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\bin\Debug\net8.0\StartUpFoodDelivery.dll
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\bin\Debug\net8.0\StartUpFoodDelivery.pdb
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.AssemblyInfoInputs.cache
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.AssemblyInfo.cs
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.sourcelink.json
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.dll
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\refint\StartUpFoodDelivery.dll
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.pdb
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\StartUpFoodDelivery.genruntimeconfig.cache
+C:\Users\nisma\RiderProjects\StartUpFoodDelivery\StartUpFoodDelivery\obj\Debug\net8.0\ref\StartUpFoodDelivery.dll
